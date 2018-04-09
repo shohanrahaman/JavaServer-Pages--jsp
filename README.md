@@ -1,1 +1,1 @@
-# JavaServer-Pages--jsp
+# JavaServerPages--jsp
