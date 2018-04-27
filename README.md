@@ -9,7 +9,6 @@
 
 #unorderlist
 * shohan
-* rahaman
 - sazal
 
 >quick brown fox jumps over the lazy dog
